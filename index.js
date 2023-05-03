@@ -20,8 +20,8 @@ app.get('/chef', (request, response) => {
 });
 app.get('/chef/item/:id', (request, response) => {
     const id = request.params.id;
-    const finaldata = items.all_recipes.find(n => id === n.chef_id);
-    console.log(finaldata);
+    const finalData = items.all_recipes.find(n => id === n.chef_id);
+    response.send(finalData);
 });
 
 app.listen(port, () => {
