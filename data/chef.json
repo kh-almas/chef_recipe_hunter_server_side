@@ -1,0 +1,96 @@
+{
+  "chefs": [
+    {
+      "id": "mx-chef-001",
+      "image_url": "https://example.com/mx-chef-001.jpg",
+      "name": "Lupita Torres",
+      "years_of_experience": 15,
+      "num_recipes": 85,
+      "likes": 12000,
+      "bio": "Chef Lupita Torres is a Mexican culinary expert with a passion for blending traditional recipes with modern techniques. With over 15 years of experience, Chef Lupita has become known for her bold flavors and creative presentations. Her signature dish, a spicy shrimp ceviche, has become a staple in many of Mexico's top restaurants."
+    },
+    {
+      "id": "mx-chef-002",
+      "image_url": "https://example.com/mx-chef-002.jpg",
+      "name": "Carlos Gomez",
+      "years_of_experience": 10,
+      "num_recipes": 65,
+      "likes": 9500,
+      "bio": "Chef Carlos Gomez is a master of Mexican cuisine, specializing in traditional recipes passed down through generations of his family. With a decade of experience in the industry, Chef Carlos has developed a loyal following of fans who appreciate his dedication to preserving the authenticity of each dish he prepares."
+    },
+    {
+      "id": "mx-chef-003",
+      "image_url": "https://example.com/mx-chef-003.jpg",
+      "name": "Ana Rodriguez",
+      "years_of_experience": 8,
+      "num_recipes": 50,
+      "likes": 7800,
+      "bio": "Chef Ana Rodriguez is a rising star in the Mexican culinary world, known for her inventive fusion dishes that blend Mexican flavors with influences from around the globe. With 8 years of experience, Chef Ana is constantly pushing the boundaries of what is possible in the kitchen, and her unique creations are always a hit with diners."
+    },
+    {
+      "id": "mx-chef-004",
+      "image_url": "https://example.com/mx-chef-004.jpg",
+      "name": "Josefina Sanchez",
+      "years_of_experience": 12,
+      "num_recipes": 70,
+      "likes": 10500,
+      "bio": "Chef Josefina Sanchez is a seasoned veteran of the Mexican culinary scene, with over 12 years of experience in top restaurants across the country. Her specialty is traditional Mexican cuisine, and she is an expert in preparing dishes that showcase the unique flavors and ingredients of each region of Mexico."
+    },
+    {
+      "id": "mx-chef-005",
+      "image_url": "https://example.com/mx-chef-005.jpg",
+      "name": "Javier Hernandez",
+      "years_of_experience": 6,
+      "num_recipes": 45,
+      "likes": 6500,
+      "bio": "Chef Javier Hernandez is a rising star in the Mexican culinary world, known for his fresh and innovative takes on classic Mexican dishes. With 6 years of experience, Chef Javier has quickly made a name for himself with his use of locally-sourced ingredients and his ability to create dishes that are both delicious and visually stunning."
+    },
+    {
+      "id": "mx-chef-006",
+      "image_url": "https://example.com/mx-chef-006.jpg",
+      "name": "Marisol Ortiz",
+      "years_of_experience": 18,
+      "num_recipes": 90,
+      "likes": 15000,
+      "bio": "Chef Marisol Ortiz is a well-respected figure in the Mexican culinary world, with over 18 years of experience in top restaurants across the country. Her specialty is contemporary Mexican cuisine, and she is known for her creative use of seasonal ingredients and bold flavor combinations."
+    },
+    {
+      "id": "mx-chef-007",
+      "image_url": "https://example.com/mx-chef-007.jpg",
+      "name": "Hector Garcia",
+      "years_of_experience": 14,
+      "num_recipes": 80,
+      "likes": 11500,
+      "bio": "Chef Hector Garcia is a skilled chef with a passion for showcasing the rich diversity of Mexican cuisine. With 10 years of experience, Chef Hector has become known for his creative takes on traditional recipes, and his dishes are beloved by locals and tourists alike."
+
+    },
+    {
+      "id": "mx-chef-008",
+      "image_url": "https://example.com/mx-chef-008.jpg",
+      "name": "Isabel Ramirez",
+      "years_of_experience": 9,
+      "num_recipes": 55,
+      "likes": 8200,
+      "bio": "Chef Isabel Ramirez is a rising star in the Mexican culinary world, known for her playful and inventive takes on classic Mexican dishes. With 5 years of experience, Chef Isabel has quickly made a name for herself with her use of unexpected flavor combinations and her ability to create dishes that are both delicious and Instagram-worthy."
+
+    },
+    {
+      "id": "mx-chef-009",
+      "image_url": "https://example.com/mx-chef-009.jpg",
+      "name": "Fernanda Gonzalez",
+      "years_of_experience": 7,
+      "num_recipes": 40,
+      "likes": 6000,
+      "bio": "Chef Fernanda Gonzalez is a rising star in the Mexican culinary scene, known for her innovative takes on classic dishes. With 7 years of experience, Chef Fernanda draws on her love of Mexican ingredients and her background in French cuisine to create dishes that are both sophisticated and approachable."
+    },
+    {
+      "id": "mx-chef-010",
+      "image_url": "https://example.com/mx-chef-010.jpg",
+      "name": "Juan Carlos Hernandez",
+      "years_of_experience": 11,
+      "num_recipes": 60,
+      "likes": 9000,
+      "bio": "Chef Juan Carlos Hernandez is a seasoned veteran of the Mexican culinary world, with over 20 years of experience in some of the country's top restaurants. His specialty is traditional Mexican cuisine, and he is an expert in preparing dishes that showcase the unique flavors and techniques of each region of Mexico."
+    }
+  ]
+}
