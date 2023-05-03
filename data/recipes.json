@@ -1,0 +1,729 @@
+{
+  "all_recipes":[
+    {
+      "chef_id": "001",
+      "recipes": [
+        {
+          "recipe_id": "101",
+          "recipe_name": "Beef Tacos",
+          "ingredients": [
+            "1 pound ground beef",
+            "1 packet taco seasoning",
+            "1/2 cup water",
+            "8-10 corn tortillas",
+            "1/2 cup shredded cheddar or Mexican blend cheese",
+            "1/4 cup chopped fresh cilantro",
+            "Sour cream and salsa for serving"
+          ],
+          "cooking_method": "1. In a large skillet, cook ground beef over medium-high heat until browned and cooked through. \n2. Add taco seasoning and water to the skillet and stir to combine. Bring to a boil, then reduce heat and let simmer for 10-15 minutes.\n3. Warm corn tortillas in the microwave or on a hot griddle. \n4. Spoon beef mixture onto each tortilla and top with shredded cheese and chopped cilantro. \n5. Serve with sour cream and salsa on the side.",
+          "rating": 4.5,
+          "favorite": true,
+          "image": "https://example.com/beef_tacos.jpg"
+        },
+        {
+          "recipe_id": "102",
+          "recipe_name": "Guacamole",
+          "ingredients": [
+            "2 ripe avocados",
+            "1/4 cup chopped onion",
+            "1/4 cup chopped fresh cilantro",
+            "1-2 cloves garlic, minced",
+            "1-2 jalapeno peppers, seeded and minced",
+            "Juice of 1 lime",
+            "Salt and pepper to taste"
+          ],
+          "cooking_method": "1. Cut avocados in half, remove the pit, and scoop the flesh into a bowl. \n2. Add onion, cilantro, garlic, jalapeno peppers, and lime juice to the bowl. \n3. Mash with a fork or potato masher until desired consistency is reached. \n4. Season with salt and pepper to taste. \n5. Serve with tortilla chips or as a topping for tacos, burritos, or other Mexican dishes.",
+          "rating": 4.8,
+          "favorite": false,
+          "image": "https://example.com/guacamole.jpg"
+        },
+        {
+          "recipe_id": "103",
+          "recipe_name": "Salsa",
+          "ingredients": [
+            "4-5 medium tomatoes, chopped",
+            "1/4 cup chopped onion",
+            "1/4 cup chopped fresh cilantro",
+            "1-2 jalapeno peppers, seeded and minced",
+            "Juice of 1 lime",
+            "Salt and pepper to taste"
+          ],
+          "cooking_method": "1. In a bowl, combine chopped tomatoes, onion, cilantro, and jalapeno peppers. \n2. Squeeze lime juice over the mixture and stir to combine. \n3. Season with salt and pepper to taste. \n4. Let sit for at least 15 minutes to allow flavors to meld together. \n5. Serve with tortilla chips or as a topping for tacos, burritos, or other Mexican dishes.",
+          "rating": 4.6,
+          "favorite": false,
+          "image": "https://example.com/salsa.jpg"
+        }
+      ]
+    },
+
+    {
+      "chef_id": "002",
+      "recipes": [
+        {
+          "recipe_id": "104",
+          "recipe_name": "Enchiladas Verdes",
+          "ingredients": [
+            "1 pound boneless, skinless chicken breasts",
+            "1 can (12 oz) green enchilada sauce",
+            "1/2 cup chicken broth",
+            "1 can (4 oz) chopped green chilies",
+            "8-10 corn tortillas",
+            "1/4 cup chopped fresh cilantro",
+            "1/4 cup crumbled queso fresco",
+            "Sour cream for serving"
+          ],
+          "cooking_method": "1. Preheat oven to 350°F. \n2. In a large saucepan, bring chicken breasts to a boil in enough water to cover. Reduce heat and let simmer until cooked through, about 20-25 minutes. \n3. Remove chicken from pan and shred with two forks. \n4. In a small bowl, whisk together green enchilada sauce and chicken broth. \n5. Add chopped green chilies and shredded chicken to the sauce and stir to combine. \n6. Warm tortillas in the microwave or on a hot griddle. \n7. Spoon chicken mixture onto each tortilla and roll up tightly. Place seam-side down in a baking dish. \n8. Pour remaining sauce over the top of the enchiladas. \n9. Bake for 20-25 minutes, until heated through and bubbly. \n10. Top with chopped cilantro and crumbled queso fresco. \n11. Serve with sour cream on the side.",
+          "rating": 4.7,
+          "favorite": true,
+          "image": "https://example.com/enchiladas_verdes.jpg"
+        },
+        {
+          "recipe_id": "105",
+          "recipe_name": "Chicken Enchiladas",
+          "ingredients": [
+            "2 cups cooked, shredded chicken",
+            "1 can (15 ounces) black beans, drained and rinsed",
+            "1 cup frozen corn kernels",
+            "1 can (10 ounces) enchilada sauce",
+            "8-10 corn tortillas"
+          ],
+          "cooking_method": "1. Preheat oven to 375 degrees F. \n2. In a large bowl, combine cooked chicken, black beans, corn, and 1/2 cup enchilada sauce. \n3. Warm tortillas in the microwave or on a hot griddle. \n4. Spoon chicken mixture onto each tortilla and roll up tightly. \n5. Place enchiladas seam-side down in a baking dish. \n6. Pour remaining enchilada sauce over the top of the enchiladas. \n7. Bake for 20-25 minutes, or until heated through and bubbly. \n8. Serve with sour cream, chopped fresh cilantro, and/or sliced avocado if desired.",
+          "rating": 4.9,
+          "favorite": true,
+          "image": "https://example.com/chicken_enchiladas.jpg"
+        },
+        {
+          "recipe_id": "106",
+          "recipe_name": "Chile Relleno Casserole",
+          "ingredients": [
+            "6-8 poblano peppers",
+            "1 pound ground beef",
+            "1 small onion, diced",
+            "2 cloves garlic, minced",
+            "1 can diced tomatoes",
+            "2 cups shredded cheddar cheese"
+          ],
+          "cooking_method": "1. Preheat oven to 375°F. \n2. Roast poblano peppers over an open flame or under the broiler until charred on all sides. Let cool, then remove stems and seeds. \n3. In a large skillet, cook ground beef over medium-high heat until browned and cooked through. Add onion and garlic to the skillet and cook until softened. \n4. Add diced tomatoes to the skillet and stir to combine. Simmer for 5-10 minutes. \n5. In a greased 9x13 inch baking dish, layer half of the roasted peppers. Spoon the beef mixture over the peppers, then layer the remaining peppers on top. \n6. Top with shredded cheese. \n7. Bake for 25-30 minutes, or until cheese is melted and bubbly. \n8. Let cool for a few minutes before serving.",
+          "rating": 4.7,
+          "favorite": true,
+          "image": "https://example.com/chile_relleno_casserole.jpg"
+        }
+      ]
+    },
+
+    {
+      "chef_id": "003",
+      "recipes": [
+        {
+          "recipe_id": "107",
+          "recipe_name": "Chicken Enchiladas",
+          "ingredients": [
+            "8-10 corn tortillas",
+            "2 cups cooked and shredded chicken",
+            "1 can black beans, drained and rinsed",
+            "1 cup shredded cheddar or Mexican blend cheese",
+            "1 can enchilada sauce"
+          ],
+          "cooking_method": "1. Preheat the oven to 375 degrees F (190 degrees C). \n2. In a skillet, combine the chicken and black beans over medium heat. Stir to combine and heat through. \n3. Warm the tortillas in the microwave or on a hot griddle. \n4. Spoon the chicken and bean mixture onto each tortilla and top with shredded cheese. \n5. Roll up the tortillas and place them seam side down in a baking dish. \n6. Pour enchilada sauce over the top of the rolled tortillas. \n7. Bake for 15-20 minutes, until heated through and cheese is melted and bubbly. \n8. Serve with additional cheese, sour cream, and diced tomatoes, if desired.",
+          "rating": 4.7,
+          "favorite": true,
+          "image": "https://example.com/chicken_enchiladas.jpg"
+        },
+
+        {
+          "recipe_id": "108",
+          "recipe_name": "Shrimp Tacos",
+          "ingredients": [
+            "1 pound medium shrimp, peeled and deveined",
+            "1/2 red onion, sliced",
+            "1 red bell pepper, sliced",
+            "2 cloves garlic, minced",
+            "1 tablespoon olive oil",
+            "1 teaspoon chili powder",
+            "1 teaspoon cumin",
+            "1/4 teaspoon smoked paprika",
+            "1/4 teaspoon salt",
+            "8-10 small corn tortillas",
+            "1/2 cup crumbled queso fresco or feta cheese",
+            "1/4 cup chopped fresh cilantro",
+            "Lime wedges, for serving"
+          ],
+          "cooking_method": "1. Preheat oven to 375 degrees F. \n2. In a large bowl, toss shrimp, onion, red bell pepper, garlic, olive oil, chili powder, cumin, smoked paprika, and salt together until well coated. \n3. Spread the shrimp mixture out in a single layer on a baking sheet. \n4. Roast in the oven for 10-12 minutes, or until the shrimp are pink and cooked through. \n5. Warm corn tortillas in the microwave or on a hot griddle. \n6. Spoon shrimp mixture onto each tortilla and sprinkle with crumbled queso fresco or feta cheese and chopped cilantro. \n7. Serve with lime wedges.",
+          "rating": 4.5,
+          "favorite": false,
+          "image": "https://example.com/shrimp_tacos.jpg"
+        },
+
+        {
+          "recipe_id": "109",
+          "recipe_name": "Beef Fajitas",
+          "ingredients": [
+            "1 pound flank steak, sliced thin",
+            "1 red onion, sliced",
+            "1 red bell pepper, sliced",
+            "1 green bell pepper, sliced",
+            "3 cloves garlic, minced",
+            "2 tablespoons olive oil",
+            "1 teaspoon chili powder",
+            "1 teaspoon cumin",
+            "1/4 teaspoon smoked paprika",
+            "1/4 teaspoon salt",
+            "8-10 small flour tortillas",
+            "Sour cream, for serving",
+            "Guacamole, for serving",
+            "Salsa, for serving"
+          ],
+          "cooking_method": "1. Heat a large skillet over high heat. \n2. In a large bowl, toss steak, onion, red bell pepper, green bell pepper, garlic, olive oil, chili powder, cumin, smoked paprika, and salt together until well coated. \n3. Add the steak mixture to the hot skillet and cook for 8-10 minutes, stirring occasionally, until the steak is browned and cooked through. \n4. Warm flour tortillas in the microwave or on a hot griddle. \n5. Spoon steak mixture onto each tortilla and serve with sour cream, guacamole, and salsa.",
+          "rating": 4.8,
+          "favorite": true,
+          "image": "https://example.com/beef_fajitas.jpg"
+        }
+      ]
+    },
+    {
+      "chef_id": "004",
+      "recipes": [
+        {
+          "recipe_id": "110",
+          "recipe_name": "Chile Rellenos",
+          "ingredients": [
+            "4 large poblano peppers",
+            "1 cup cooked white rice",
+            "1/2 cup black beans, drained and rinsed",
+            "1/2 cup corn kernels",
+            "1/2 cup shredded Monterey Jack cheese",
+            "1/4 cup chopped fresh cilantro",
+            "1/4 teaspoon salt",
+            "2 large eggs",
+            "1/2 cup all-purpose flour",
+            "1/2 teaspoon baking powder",
+            "1/2 cup milk",
+            "1/4 cup vegetable oil",
+            "Sour cream, for serving",
+            "Salsa, for serving"
+          ],
+          "cooking_method": "1. Preheat oven to 375 degrees F. \n2. Cut a slit lengthwise in each poblano pepper and remove the seeds and membranes. \n3. In a medium bowl, combine cooked white rice, black beans, corn kernels, Monterey Jack cheese, cilantro, and salt. \n4. Stuff each pepper with the rice and bean mixture and place on a baking sheet. \n5. In a separate bowl, whisk together eggs, flour, baking powder, and milk until smooth. \n6. Heat vegetable oil in a large skillet over medium heat. \n7. Dip each stuffed pepper in the egg batter, then fry in the hot oil until golden brown on both sides. \n8. Transfer the fried peppers back to the baking sheet and bake in the oven for 15-20 minutes, or until heated through. \n9. Serve with sour cream and salsa.",
+          "rating": 4.6,
+          "favorite": true,
+          "image": "https://example.com/chile_rellenos.jpg"
+        },
+        {
+          "recipe_id": "111",
+          "recipe_name": "Tamales",
+          "ingredients": [
+            "2 cups masa harina (corn flour)",
+            "1 1/2 cups chicken broth",
+            "1/2 cup vegetable shortening",
+            "1 teaspoon baking powder",
+            "1/2 teaspoon salt",
+            "1/2 teaspoon cumin",
+            "1/2 teaspoon chili powder",
+            "2 cups cooked and shredded chicken",
+            "1 cup red enchilada sauce",
+            "1/2 cup shredded cheddar cheese",
+            "1/4 cup chopped fresh cilantro",
+            "Diced avocado, for serving"
+          ],
+          "cooking_method": "1. Soak corn husks in hot water for 30 minutes or until soft. \n2. In a large bowl, mix masa harina, chicken broth, vegetable shortening, baking powder, salt, cumin, and chili powder until smooth. \n3. In a separate bowl, combine cooked and shredded chicken, red enchilada sauce, shredded cheddar cheese, and chopped fresh cilantro. \n4. To assemble the tamales, spread a thin layer of the masa mixture onto a corn husk. \n5. Spoon a generous amount of the chicken mixture onto the center of the masa mixture. \n6. Fold the sides of the corn husk over the filling and then fold the bottom of the husk up. \n7. Tie the tamale closed with a strip of corn husk or cooking twine. \n8. Place the tamales in a steamer basket over simmering water and steam for 45-60 minutes or until the masa is cooked through. \n9. Serve hot with diced avocado on top.",
+          "rating": 4.8,
+          "favorite": false,
+          "image": "https://example.com/tamales.jpg"
+        },
+        {
+          "recipe_id": "112",
+          "recipe_name": "Sopa de Fideo",
+          "ingredients": [
+            "1/4 cup vegetable oil",
+            "4 oz. fideo noodles",
+            "1/2 cup diced onion",
+            "2 cloves garlic, minced",
+            "1/2 tsp. cumin",
+            "1/2 tsp. dried oregano",
+            "1/2 tsp. chili powder",
+            "1/2 tsp. salt",
+            "1/4 tsp. black pepper",
+            "2 cups chicken broth",
+            "2 cups water",
+            "1 cup diced tomato",
+            "1/4 cup chopped fresh cilantro",
+            "1/4 cup crumbled queso fresco",
+            "Lime wedges, for serving"
+          ],
+          "cooking_method": "1. Heat the vegetable oil in a large pot over medium heat. \n2. Add the fideo noodles and stir to coat with the oil. Cook, stirring frequently, until the noodles are golden brown, about 5-7 minutes. \n3. Add the onion and garlic and cook for 2-3 minutes, until the onion is translucent. \n4. Stir in the cumin, oregano, chili powder, salt, and black pepper. \n5. Add the chicken broth and water and bring to a boil. Reduce the heat and simmer for 10-15 minutes, or until the noodles are cooked through. \n6. Stir in the diced tomato and chopped cilantro. \n7. Serve hot, topped with crumbled queso fresco and a lime wedge for squeezing over the top.",
+          "rating": 4.5,
+          "favorite": false,
+          "image": "https://example.com/sopa-de-fideo.jpg"
+        }
+      ]
+    },
+
+    {
+      "chef_id": "005",
+      "recipes": [
+        {
+          "recipe_id": "113",
+          "recipe_name": "Carnitas Tacos",
+          "ingredients": [
+            "2 lbs. boneless pork shoulder, cut into chunks",
+            "1/4 cup vegetable oil",
+            "1/2 cup orange juice",
+            "1/4 cup lime juice",
+            "1/4 cup chopped fresh cilantro",
+            "1 tsp. salt",
+            "1/2 tsp. black pepper",
+            "1/2 tsp. cumin",
+            "1/2 tsp. dried oregano",
+            "1/2 tsp. chili powder",
+            "12 corn tortillas",
+            "1/2 cup chopped onion",
+            "1/2 cup chopped fresh cilantro",
+            "Lime wedges, for serving"
+          ],
+          "cooking_method": "1. Heat the vegetable oil in a large skillet over high heat. \n2. Add the pork and cook, stirring occasionally, until browned on all sides, about 5-7 minutes. \n3. Add the orange juice, lime juice, chopped cilantro, salt, black pepper, cumin, oregano, and chili powder. \n4. Reduce the heat to low, cover, and simmer for 2-3 hours, stirring occasionally, until the pork is tender and easily shredded. \n5. Use a slotted spoon to transfer the pork to a plate and shred with a fork. \n6. Preheat the oven to 350°F. \n7. Warm the tortillas in the oven for 5-7 minutes. \n8. To assemble the tacos, spoon some of the shredded pork onto each warm tortilla. \n9. Top with chopped onion, chopped cilantro, and a squeeze of lime juice. \n10. Serve hot and enjoy!",
+          "rating": 4.8,
+          "favorite": false,
+          "image": "https://example.com/carnitas-tacos.jpg"
+        },
+        {
+          "recipe_id": "114",
+          "recipe_name": "Chiles Rellenos",
+          "ingredients": [
+            "4 large poblano peppers",
+            "1/2 lb. ground beef",
+            "1/2 onion, chopped",
+            "2 cloves garlic, minced",
+            "1/2 tsp. ground cumin",
+            "1/2 tsp. dried oregano",
+            "1/2 tsp. chili powder",
+            "1/2 cup cooked rice",
+            "1 cup shredded Monterey Jack cheese",
+            "1 egg, separated",
+            "1/4 cup all-purpose flour",
+            "1/4 cup vegetable oil",
+            "1 cup tomato sauce",
+            "Salt and pepper, to taste"
+          ],
+          "cooking_method": "1. Preheat the oven to 400°F. \n2. Cut a slit down the side of each poblano pepper, then carefully remove the seeds and membranes. \n3. In a large skillet, brown the ground beef over medium-high heat. \n4. Add the chopped onion, minced garlic, ground cumin, dried oregano, chili powder, and cooked rice to the skillet. Cook for an additional 3-5 minutes, stirring occasionally. \n5. Remove the skillet from the heat and stir in 1/2 cup of the shredded Monterey Jack cheese. \n6. Stuff each poblano pepper with the beef and rice mixture, then place them in a greased baking dish. \n7. In a separate bowl, beat the egg white until stiff peaks form. \n8. In another bowl, mix together the egg yolk and flour until well combined. \n9. Gently fold the beaten egg white into the egg yolk mixture. \n10. Pour the mixture over the stuffed peppers. \n11. Bake for 25-30 minutes, or until the egg mixture is golden brown and the peppers are tender. \n12. While the peppers are baking, heat the tomato sauce in a small saucepan over low heat. \n13. Season with salt and pepper to taste. \n14. Serve the baked peppers hot, topped with the tomato sauce and the remaining shredded Monterey Jack cheese. Enjoy!",
+          "rating": 4.5,
+          "favorite": false,
+          "image": "https://example.com/chiles-rellenos.jpg"
+        },
+        {
+          "recipe_id": "115",
+          "recipe_name": "Mexican Street Corn",
+          "ingredients": [
+            "4 ears of corn, husks removed",
+            "1/4 cup mayonnaise",
+            "1/4 cup sour cream",
+            "1/4 cup chopped fresh cilantro",
+            "1 clove garlic, minced",
+            "1/4 cup crumbled cotija cheese",
+            "1 lime, cut into wedges",
+            "Chili powder, for sprinkling"
+          ],
+          "cooking_method": "1. Preheat a grill to medium-high heat. \n2. Place the ears of corn directly on the grill and cook, turning occasionally, until lightly charred on all sides, about 10-12 minutes. \n3. In a small bowl, whisk together the mayonnaise, sour cream, cilantro, and garlic. \n4. When the corn is done, remove it from the grill and transfer to a serving platter. \n5. Brush each ear of corn with the mayonnaise mixture, then sprinkle with the crumbled cotija cheese and chili powder. \n6. Serve the Mexican street corn hot, with lime wedges on the side for squeezing over the top. Enjoy!",
+          "rating": 4.8,
+          "favorite": false,
+          "image": "https://example.com/mexican-street-corn.jpg"
+        }
+      ]
+    },
+
+    {
+      "chef_id": "006",
+      "recipes": [
+        {
+          "recipe_id": "116",
+          "recipe_name": "Chiles Rellenos",
+          "ingredients": [
+            "4 poblano peppers",
+            "1/2 pound ground beef",
+            "1/2 cup cooked rice",
+            "1/2 cup canned black beans, rinsed and drained",
+            "1/2 cup corn kernels",
+            "1/2 cup shredded Monterey Jack cheese",
+            "1/2 teaspoon ground cumin",
+            "1/2 teaspoon chili powder",
+            "1/2 teaspoon garlic powder",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon black pepper",
+            "1 egg",
+            "1/4 cup all-purpose flour",
+            "1/2 cup vegetable oil",
+            "1/2 cup tomato sauce"
+          ],
+          "cooking_method": "1. Preheat the oven to 400 degrees F. \n2. Place the poblano peppers on a baking sheet and roast in the oven until the skins are blistered and blackened, about 10-15 minutes. \n3. Remove the peppers from the oven and place them in a bowl. Cover the bowl with plastic wrap and let the peppers steam for 10-15 minutes to loosen the skins. \n4. In a large bowl, combine the ground beef, cooked rice, black beans, corn kernels, Monterey Jack cheese, cumin, chili powder, garlic powder, salt, and black pepper. Mix well. \n5. Peel the skins off the poblano peppers and cut a small slit down the side of each pepper. Carefully remove the seeds and ribs. \n6. Stuff each pepper with the beef and rice mixture. \n7. In a shallow bowl, beat the egg. Place the flour in another shallow bowl. \n8. Heat the vegetable oil in a large skillet over medium-high heat. \n9. Dip each stuffed pepper in the flour, then in the egg, and place in the skillet. Cook until golden brown on all sides, about 3-4 minutes per side. \n10. Transfer the stuffed peppers to a baking dish and pour the tomato sauce over the top. \n11. Bake in the oven for 10-15 minutes, until the cheese is melted and bubbly. Enjoy!",
+          "rating": 4.6,
+          "favorite": false,
+          "image": "https://example.com/chiles-rellenos.jpg"
+        },
+        {
+          "recipe_id": "117",
+          "recipe_name": "Enchiladas Verdes",
+          "ingredients": [
+            "1 pound boneless, skinless chicken breasts",
+            "1 tablespoon olive oil",
+            "1/2 teaspoon cumin",
+            "1/2 teaspoon garlic powder",
+            "1/2 teaspoon chili powder",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon black pepper",
+            "1/2 onion, chopped",
+            "1 jalapeno pepper, seeded and minced",
+            "2 cloves garlic, minced",
+            "1 cup chicken broth",
+            "1/2 cup sour cream",
+            "1 cup shredded Monterey Jack cheese",
+            "10-12 corn tortillas",
+            "1/4 cup chopped fresh cilantro",
+            "1/2 cup salsa verde"
+          ],
+          "cooking_method": "1. Preheat the oven to 350 degrees F. \n2. In a large skillet, heat the olive oil over medium-high heat. \n3. Season the chicken breasts with cumin, garlic powder, chili powder, salt, and black pepper. Add the chicken to the skillet and cook until browned on both sides, about 6-8 minutes per side. \n4. Remove the chicken from the skillet and let it cool. Once cool, shred the chicken with a fork. \n5. In the same skillet, add the onion, jalapeno pepper, and garlic. Cook until the vegetables are soft, about 3-5 minutes. \n6. Add the shredded chicken, chicken broth, and sour cream to the skillet. Stir to combine. Cook until the mixture is heated through, about 5 minutes. \n7. Remove the skillet from the heat and stir in half of the shredded cheese. \n8. Warm the tortillas in the microwave or on a skillet. \n9. Place a spoonful of the chicken mixture on each tortilla and roll it up. \n10. Place the rolled tortillas seam-side down in a baking dish. \n11. Pour the salsa verde over the top of the rolled tortillas. \n12. Sprinkle the remaining shredded cheese over the top. \n13. Bake in the oven for 20-25 minutes, until the cheese is melted and bubbly. \n14. Garnish with chopped cilantro and serve. Enjoy!",
+          "rating": 4.7,
+          "favorite": false,
+          "image": "https://example.com/enchiladas-verdes.jpg"
+        },
+        {
+          "recipe_id": "118",
+          "recipe_name": "Chiles Rellenos",
+          "ingredients": [
+            "6 poblano peppers",
+            "1 pound ground beef",
+            "1/2 onion, chopped",
+            "2 cloves garlic, minced",
+            "1/2 teaspoon cumin",
+            "1/2 teaspoon chili powder",
+            "1/2 teaspoon paprika",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon black pepper",
+            "1/2 cup cooked rice",
+            "1/2 cup black beans, drained and rinsed",
+            "1/2 cup corn kernels",
+            "1/2 cup shredded Monterey Jack cheese",
+            "1 egg, beaten",
+            "1/2 cup all-purpose flour",
+            "1/2 teaspoon baking powder",
+            "1/2 teaspoon salt",
+            "1/2 cup milk",
+            "1/2 cup vegetable oil"
+          ],
+          "cooking_method": "1. Preheat the oven to 350 degrees F. \n2. Place the poblano peppers on a baking sheet and roast them in the oven until the skins are blistered and charred, about 15-20 minutes. \n3. Remove the peppers from the oven and place them in a bowl. Cover the bowl with plastic wrap and let the peppers steam for about 10 minutes. \n4. In a large skillet, cook the ground beef over medium-high heat until browned, about 5-7 minutes. \n5. Add the onion, garlic, cumin, chili powder, paprika, salt, and black pepper to the skillet. Cook until the onion is soft, about 3-5 minutes. \n6. Add the cooked rice, black beans, corn, and shredded cheese to the skillet. Stir to combine. \n7. Remove the peppers from the bowl and peel off the skins. Cut a small slit in each pepper and remove the seeds and membranes. \n8. Stuff each pepper with the beef mixture. \n9. In a medium bowl, whisk together the egg, flour, baking powder, salt, and milk to make a batter. \n10. In a large skillet, heat the vegetable oil over medium-high heat. \n11. Dip each stuffed pepper in the batter and place it in the skillet. Fry the peppers until they are golden brown on both sides, about 2-3 minutes per side. \n12. Remove the peppers from the skillet and place them on a paper towel-lined plate to drain. \n13. Serve the peppers hot with your favorite toppings, such as salsa, sour cream, or guacamole. Enjoy!",
+          "rating": 4.5,
+          "favorite": false,
+          "image": "https://example.com/chiles-rellenos.jpg"
+        }
+      ]
+    },
+
+    {
+      "chef_id": "007",
+      "recipes": [
+        {
+          "recipe_id": "119",
+          "recipe_name": "Mexican Street Corn Salad",
+          "ingredients": [
+            "4 ears of fresh corn, shucked",
+            "1/4 cup mayonnaise",
+            "1/4 cup sour cream",
+            "2 tablespoons fresh lime juice",
+            "1/2 teaspoon chili powder",
+            "1/2 teaspoon smoked paprika",
+            "1/2 teaspoon garlic powder",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon black pepper",
+            "1/2 cup crumbled Cotija cheese",
+            "1/4 cup chopped fresh cilantro",
+            "1 jalapeno pepper, seeded and minced"
+          ],
+          "cooking_method": "1. Preheat a grill to medium-high heat. \n2. Grill the corn for 10-12 minutes, turning occasionally, until it is lightly charred on all sides. \n3. Remove the corn from the grill and let it cool slightly. \n4. Cut the kernels off the cobs and place them in a large bowl. \n5. In a small bowl, whisk together the mayonnaise, sour cream, lime juice, chili powder, smoked paprika, garlic powder, salt, and black pepper. \n6. Pour the dressing over the corn and toss to combine. \n7. Add the Cotija cheese, cilantro, and jalapeno to the bowl and stir to combine. \n8. Serve the salad immediately or refrigerate until ready to serve. Enjoy!",
+          "rating": 4.8,
+          "favorite": false,
+          "image": "https://example.com/mexican-street-corn-salad.jpg"
+        },
+        {
+          "recipe_id": "120",
+          "recipe_name": "Tacos al Pastor",
+          "ingredients": [
+            "1 lb pork shoulder, sliced into thin strips",
+            "1/2 cup chopped onion",
+            "2 garlic cloves, minced",
+            "2 chipotle peppers in adobo sauce, finely chopped",
+            "1/4 cup fresh pineapple juice",
+            "1/4 cup white vinegar",
+            "1 tbsp achiote paste",
+            "1 tsp dried oregano",
+            "1/2 tsp ground cumin",
+            "1/2 tsp salt",
+            "1/4 tsp black pepper",
+            "8 corn tortillas",
+            "1/4 cup chopped fresh cilantro",
+            "1/4 cup diced white onion",
+            "1 lime, cut into wedges",
+            "Salsa, for serving"
+          ],
+          "cooking_method": "1. In a large bowl, combine the pork, chopped onion, minced garlic, chipotle peppers, pineapple juice, white vinegar, achiote paste, oregano, cumin, salt, and black pepper. Mix well to coat the pork with the marinade. \n2. Cover the bowl with plastic wrap and refrigerate for at least 1 hour, or up to overnight. \n3. Preheat a grill or grill pan to medium-high heat. \n4. Thread the pork strips onto skewers and grill for 3-4 minutes on each side, or until cooked through and lightly charred. \n5. Meanwhile, warm the corn tortillas on the grill for 30 seconds on each side, or until lightly toasted. \n6. To assemble the tacos, place 2-3 slices of grilled pork on each tortilla, and then top with chopped cilantro and diced onion. \n7. Squeeze a wedge of lime over each taco, and serve with your favorite salsa. Enjoy!",
+          "rating": 4.8,
+          "favorite": false,
+          "image": "https://example.com/tacos-al-pastor.jpg"
+        },
+        {
+          "recipe_id": "121",
+          "recipe_name": "Enchiladas Verdes",
+          "ingredients": [
+            "10 tomatillos, husks removed",
+            "1/2 white onion, chopped",
+            "2 garlic cloves",
+            "1 jalapeño pepper, seeded and chopped",
+            "1/2 cup chopped fresh cilantro",
+            "1/2 tsp salt",
+            "1/4 tsp black pepper",
+            "2 tbsp vegetable oil",
+            "12 corn tortillas",
+            "2 cups cooked and shredded chicken",
+            "1/2 cup crumbled queso fresco",
+            "1/2 cup sour cream"
+          ],
+          "cooking_method": "1. Preheat the oven to 350°F. \n2. In a large pot of boiling water, cook the tomatillos until tender, about 10 minutes. \n3. Drain and transfer to a blender. Add the onion, garlic, jalapeño, cilantro, salt, and pepper, and blend until smooth. \n4. In a large skillet, heat the vegetable oil over medium-high heat. Add the tomatillo sauce and cook, stirring occasionally, until thickened, about 10 minutes. \n5. Warm the corn tortillas in the microwave or on a griddle. \n6. Spoon some of the tomatillo sauce onto the bottom of a 9x13-inch baking dish. \n7. Dip each tortilla in the sauce to coat, then fill with shredded chicken and roll up. Place the enchiladas seam side down in the baking dish. \n8. Spoon the remaining sauce over the enchiladas, then sprinkle with crumbled queso fresco. \n9. Bake for 20-25 minutes, or until the cheese is melted and bubbly. \n10. Serve hot, garnished with a dollop of sour cream and some chopped cilantro, if desired. Enjoy!",
+          "rating": 4.5,
+          "favorite": false,
+          "image": "https://example.com/enchiladas-verdes.jpg"
+        }
+      ]
+    },
+
+    {
+      "chef_id": "008",
+      "recipes": [
+        {
+          "recipe_id": "122",
+          "recipe_name": "Chiles Rellenos",
+          "ingredients": [
+            "4 poblano peppers",
+            "1/2 lb ground beef",
+            "1/2 onion, chopped",
+            "2 garlic cloves, minced",
+            "1 tsp cumin",
+            "1/2 tsp dried oregano",
+            "1/2 tsp salt",
+            "1/4 tsp black pepper",
+            "1 cup shredded Monterey Jack cheese",
+            "1 egg, separated",
+            "1/4 cup flour",
+            "1/2 cup vegetable oil",
+            "1 cup tomato sauce"
+          ],
+          "cooking_method": "1. Preheat the oven to 350°F. \n2. Roast the poblano peppers directly over a gas flame or under the broiler until the skin is charred and blistered all over, turning frequently with tongs. \n3. Transfer the peppers to a bowl and cover with plastic wrap. Let steam for 10 minutes. \n4. Peel the charred skin off the peppers, being careful not to tear them. Make a small slit in each pepper and remove the seeds and membranes, leaving the stem intact. \n5. In a skillet over medium-high heat, cook the ground beef, onion, and garlic until the beef is browned and cooked through, about 5 minutes. \n6. Add the cumin, oregano, salt, and pepper, and cook for 1-2 minutes more, stirring occasionally. Remove from the heat and stir in the shredded cheese. \n7. Stuff the beef and cheese mixture into the peppers, taking care not to overstuff them. \n8. Beat the egg white until stiff peaks form, then fold in the egg yolk. \n9. Dredge each stuffed pepper in flour, shaking off any excess. \n10. Heat the vegetable oil in a skillet over medium-high heat. \n11. Dip each pepper in the beaten egg mixture to coat, then fry in the hot oil until golden brown on all sides, about 3-4 minutes per side. \n12. Drain on paper towels. \n13. Serve hot, topped with warm tomato sauce. Enjoy!",
+          "rating": 4.7,
+          "favorite": false,
+          "image": "https://example.com/chiles-rellenos.jpg"
+        },
+
+        {
+          "recipe_id": "123",
+          "recipe_name": "Taco Salad",
+          "ingredients": [
+            "1 lb ground beef",
+            "1 head iceberg lettuce, chopped",
+            "1 cup cherry tomatoes, halved",
+            "1 cup shredded cheddar cheese",
+            "1 cup canned corn kernels",
+            "1 can black beans, drained and rinsed",
+            "1/2 cup salsa",
+            "1/4 cup sour cream",
+            "1 tsp cumin",
+            "1 tsp chili powder",
+            "1 tsp garlic powder",
+            "1/2 tsp salt",
+            "1/4 tsp black pepper",
+            "2 tbsp vegetable oil"
+          ],
+          "cooking_method": "1. In a large skillet, heat the vegetable oil over medium-high heat. \n2. Add the ground beef and cook, breaking it up with a spatula, until browned and cooked through, about 8-10 minutes. \n3. Add the cumin, chili powder, garlic powder, salt, and black pepper, and stir to combine. \n4. In a large bowl, combine the chopped lettuce, cherry tomatoes, shredded cheddar cheese, canned corn kernels, and black beans. \n5. Add the cooked ground beef to the bowl and toss everything together. \n6. In a small bowl, whisk together the salsa and sour cream to make the dressing. \n7. Drizzle the dressing over the salad and toss to combine. \n8. Serve immediately and enjoy!",
+          "rating": 4.5,
+          "favorite": false,
+          "image": "https://example.com/taco-salad.jpg"
+        },
+
+        {
+          "recipe_id": "124",
+          "recipe_name": "Enchiladas Verdes",
+          "ingredients": [
+            "12 corn tortillas",
+            "1 lb boneless, skinless chicken breasts",
+            "2 garlic cloves, minced",
+            "1/2 onion, chopped",
+            "1/2 tsp ground cumin",
+            "1/4 tsp dried oregano",
+            "1/4 tsp smoked paprika",
+            "1/4 tsp salt",
+            "1/4 tsp black pepper",
+            "2 cups chicken broth",
+            "1 cup salsa verde",
+            "1 cup shredded Monterrey Jack cheese",
+            "1/4 cup chopped fresh cilantro",
+            "1/4 cup vegetable oil"
+          ],
+          "cooking_method": "1. Preheat oven to 350°F. \n2. Season chicken breasts with cumin, oregano, smoked paprika, salt, and black pepper. \n3. In a large pot over medium heat, add 1/4 cup of oil and cook chicken until browned and no longer pink, about 5 minutes per side. \n4. Remove the chicken from the pot and shred it into bite-sized pieces with two forks. \n5. In the same pot, sauté garlic and onion until tender, about 2-3 minutes. \n6. Add the chicken broth and salsa verde and bring to a boil. \n7. Reduce heat to low and simmer for 10 minutes, stirring occasionally. \n8. Dip each tortilla into the sauce to coat both sides, then transfer it to a plate. \n9. Fill each tortilla with shredded chicken, roll up, and place seam-side down in a greased 9x13 inch baking dish. \n10. Pour the remaining sauce over the enchiladas and sprinkle with shredded cheese. \n11. Bake in the preheated oven for 15-20 minutes, until the cheese is melted and bubbly. \n12. Remove from the oven, let cool for a few minutes, and garnish with fresh cilantro. Enjoy!",
+          "rating": 4.8,
+          "favorite": false,
+          "image": "https://example.com/enchiladas-verdes.jpg"
+        }
+      ]
+    },
+
+    {
+      "chef_id": "009",
+      "recipes": [
+        {
+          "recipe_id": "125",
+          "recipe_name": "Chiles Rellenos",
+          "ingredients": [
+            "4 poblano peppers",
+            "1/2 pound ground beef",
+            "1/2 cup cooked rice",
+            "1/2 cup canned black beans, rinsed and drained",
+            "1/2 cup corn kernels",
+            "1/2 cup shredded Monterey Jack cheese",
+            "1/2 teaspoon ground cumin",
+            "1/2 teaspoon chili powder",
+            "1/2 teaspoon garlic powder",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon black pepper",
+            "1 egg",
+            "1/4 cup all-purpose flour",
+            "1/2 cup vegetable oil",
+            "1/2 cup tomato sauce"
+          ],
+          "cooking_method": "1. Preheat the oven to 400 degrees F. \n2. Place the poblano peppers on a baking sheet and roast in the oven until the skins are blistered and blackened, about 10-15 minutes. \n3. Remove the peppers from the oven and place them in a bowl. Cover the bowl with plastic wrap and let the peppers steam for 10-15 minutes to loosen the skins. \n4. In a large bowl, combine the ground beef, cooked rice, black beans, corn kernels, Monterey Jack cheese, cumin, chili powder, garlic powder, salt, and black pepper. Mix well. \n5. Peel the skins off the poblano peppers and cut a small slit down the side of each pepper. Carefully remove the seeds and ribs. \n6. Stuff each pepper with the beef and rice mixture. \n7. In a shallow bowl, beat the egg. Place the flour in another shallow bowl. \n8. Heat the vegetable oil in a large skillet over medium-high heat. \n9. Dip each stuffed pepper in the flour, then in the egg, and place in the skillet. Cook until golden brown on all sides, about 3-4 minutes per side. \n10. Transfer the stuffed peppers to a baking dish and pour the tomato sauce over the top. \n11. Bake in the oven for 10-15 minutes, until the cheese is melted and bubbly. Enjoy!",
+          "rating": 4.6,
+          "favorite": false,
+          "image": "https://example.com/chiles-rellenos.jpg"
+        },
+        {
+          "recipe_id": "126",
+          "recipe_name": "Enchiladas Verdes",
+          "ingredients": [
+            "1 pound boneless, skinless chicken breasts",
+            "1 tablespoon olive oil",
+            "1/2 teaspoon cumin",
+            "1/2 teaspoon garlic powder",
+            "1/2 teaspoon chili powder",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon black pepper",
+            "1/2 onion, chopped",
+            "1 jalapeno pepper, seeded and minced",
+            "2 cloves garlic, minced",
+            "1 cup chicken broth",
+            "1/2 cup sour cream",
+            "1 cup shredded Monterey Jack cheese",
+            "10-12 corn tortillas",
+            "1/4 cup chopped fresh cilantro",
+            "1/2 cup salsa verde"
+          ],
+          "cooking_method": "1. Preheat the oven to 350 degrees F. \n2. In a large skillet, heat the olive oil over medium-high heat. \n3. Season the chicken breasts with cumin, garlic powder, chili powder, salt, and black pepper. Add the chicken to the skillet and cook until browned on both sides, about 6-8 minutes per side. \n4. Remove the chicken from the skillet and let it cool. Once cool, shred the chicken with a fork. \n5. In the same skillet, add the onion, jalapeno pepper, and garlic. Cook until the vegetables are soft, about 3-5 minutes. \n6. Add the shredded chicken, chicken broth, and sour cream to the skillet. Stir to combine. Cook until the mixture is heated through, about 5 minutes. \n7. Remove the skillet from the heat and stir in half of the shredded cheese. \n8. Warm the tortillas in the microwave or on a skillet. \n9. Place a spoonful of the chicken mixture on each tortilla and roll it up. \n10. Place the rolled tortillas seam-side down in a baking dish. \n11. Pour the salsa verde over the top of the rolled tortillas. \n12. Sprinkle the remaining shredded cheese over the top. \n13. Bake in the oven for 20-25 minutes, until the cheese is melted and bubbly. \n14. Garnish with chopped cilantro and serve. Enjoy!",
+          "rating": 4.7,
+          "favorite": false,
+          "image": "https://example.com/enchiladas-verdes.jpg"
+        },
+        {
+          "recipe_id": "127",
+          "recipe_name": "Chiles Rellenos",
+          "ingredients": [
+            "6 poblano peppers",
+            "1 pound ground beef",
+            "1/2 onion, chopped",
+            "2 cloves garlic, minced",
+            "1/2 teaspoon cumin",
+            "1/2 teaspoon chili powder",
+            "1/2 teaspoon paprika",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon black pepper",
+            "1/2 cup cooked rice",
+            "1/2 cup black beans, drained and rinsed",
+            "1/2 cup corn kernels",
+            "1/2 cup shredded Monterey Jack cheese",
+            "1 egg, beaten",
+            "1/2 cup all-purpose flour",
+            "1/2 teaspoon baking powder",
+            "1/2 teaspoon salt",
+            "1/2 cup milk",
+            "1/2 cup vegetable oil"
+          ],
+          "cooking_method": "1. Preheat the oven to 350 degrees F. \n2. Place the poblano peppers on a baking sheet and roast them in the oven until the skins are blistered and charred, about 15-20 minutes. \n3. Remove the peppers from the oven and place them in a bowl. Cover the bowl with plastic wrap and let the peppers steam for about 10 minutes. \n4. In a large skillet, cook the ground beef over medium-high heat until browned, about 5-7 minutes. \n5. Add the onion, garlic, cumin, chili powder, paprika, salt, and black pepper to the skillet. Cook until the onion is soft, about 3-5 minutes. \n6. Add the cooked rice, black beans, corn, and shredded cheese to the skillet. Stir to combine. \n7. Remove the peppers from the bowl and peel off the skins. Cut a small slit in each pepper and remove the seeds and membranes. \n8. Stuff each pepper with the beef mixture. \n9. In a medium bowl, whisk together the egg, flour, baking powder, salt, and milk to make a batter. \n10. In a large skillet, heat the vegetable oil over medium-high heat. \n11. Dip each stuffed pepper in the batter and place it in the skillet. Fry the peppers until they are golden brown on both sides, about 2-3 minutes per side. \n12. Remove the peppers from the skillet and place them on a paper towel-lined plate to drain. \n13. Serve the peppers hot with your favorite toppings, such as salsa, sour cream, or guacamole. Enjoy!",
+          "rating": 4.5,
+          "favorite": false,
+          "image": "https://example.com/chiles-rellenos.jpg"
+        }
+      ]
+    },
+
+    {
+      "chef_id": "010",
+      "recipes": [
+        {
+          "recipe_id": "128",
+          "recipe_name": "Chicken Enchiladas",
+          "ingredients": [
+            "8-10 corn tortillas",
+            "2 cups cooked and shredded chicken",
+            "1 can black beans, drained and rinsed",
+            "1 cup shredded cheddar or Mexican blend cheese",
+            "1 can enchilada sauce"
+          ],
+          "cooking_method": "1. Preheat the oven to 375 degrees F (190 degrees C). \n2. In a skillet, combine the chicken and black beans over medium heat. Stir to combine and heat through. \n3. Warm the tortillas in the microwave or on a hot griddle. \n4. Spoon the chicken and bean mixture onto each tortilla and top with shredded cheese. \n5. Roll up the tortillas and place them seam side down in a baking dish. \n6. Pour enchilada sauce over the top of the rolled tortillas. \n7. Bake for 15-20 minutes, until heated through and cheese is melted and bubbly. \n8. Serve with additional cheese, sour cream, and diced tomatoes, if desired.",
+          "rating": 4.7,
+          "favorite": true,
+          "image": "https://example.com/chicken_enchiladas.jpg"
+        },
+
+        {
+          "recipe_id": "129",
+          "recipe_name": "Shrimp Tacos",
+          "ingredients": [
+            "1 pound medium shrimp, peeled and deveined",
+            "1/2 red onion, sliced",
+            "1 red bell pepper, sliced",
+            "2 cloves garlic, minced",
+            "1 tablespoon olive oil",
+            "1 teaspoon chili powder",
+            "1 teaspoon cumin",
+            "1/4 teaspoon smoked paprika",
+            "1/4 teaspoon salt",
+            "8-10 small corn tortillas",
+            "1/2 cup crumbled queso fresco or feta cheese",
+            "1/4 cup chopped fresh cilantro",
+            "Lime wedges, for serving"
+          ],
+          "cooking_method": "1. Preheat oven to 375 degrees F. \n2. In a large bowl, toss shrimp, onion, red bell pepper, garlic, olive oil, chili powder, cumin, smoked paprika, and salt together until well coated. \n3. Spread the shrimp mixture out in a single layer on a baking sheet. \n4. Roast in the oven for 10-12 minutes, or until the shrimp are pink and cooked through. \n5. Warm corn tortillas in the microwave or on a hot griddle. \n6. Spoon shrimp mixture onto each tortilla and sprinkle with crumbled queso fresco or feta cheese and chopped cilantro. \n7. Serve with lime wedges.",
+          "rating": 4.5,
+          "favorite": false,
+          "image": "https://example.com/shrimp_tacos.jpg"
+        },
+
+        {
+          "recipe_id": "130",
+          "recipe_name": "Beef Fajitas",
+          "ingredients": [
+            "1 pound flank steak, sliced thin",
+            "1 red onion, sliced",
+            "1 red bell pepper, sliced",
+            "1 green bell pepper, sliced",
+            "3 cloves garlic, minced",
+            "2 tablespoons olive oil",
+            "1 teaspoon chili powder",
+            "1 teaspoon cumin",
+            "1/4 teaspoon smoked paprika",
+            "1/4 teaspoon salt",
+            "8-10 small flour tortillas",
+            "Sour cream, for serving",
+            "Guacamole, for serving",
+            "Salsa, for serving"
+          ],
+          "cooking_method": "1. Heat a large skillet over high heat. \n2. In a large bowl, toss steak, onion, red bell pepper, green bell pepper, garlic, olive oil, chili powder, cumin, smoked paprika, and salt together until well coated. \n3. Add the steak mixture to the hot skillet and cook for 8-10 minutes, stirring occasionally, until the steak is browned and cooked through. \n4. Warm flour tortillas in the microwave or on a hot griddle. \n5. Spoon steak mixture onto each tortilla and serve with sour cream, guacamole, and salsa.",
+          "rating": 4.8,
+          "favorite": true,
+          "image": "https://example.com/beef_fajitas.jpg"
+        }
+      ]
+    }
+  ]
+}

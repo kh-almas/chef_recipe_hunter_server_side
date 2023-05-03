@@ -2,7 +2,7 @@
   "chefs": [
     {
       "id": "mx-chef-001",
-      "image_url": "https://example.com/mx-chef-001.jpg",
+      "image_url": "https://flowbite.com/docs/images/blog/image-1.jpg",
       "name": "Lupita Torres",
       "years_of_experience": 15,
       "num_recipes": 85,
@@ -11,7 +11,7 @@
     },
     {
       "id": "mx-chef-002",
-      "image_url": "https://example.com/mx-chef-002.jpg",
+      "image_url": "https://flowbite.com/docs/images/blog/image-1.jpg",
       "name": "Carlos Gomez",
       "years_of_experience": 10,
       "num_recipes": 65,
@@ -20,7 +20,7 @@
     },
     {
       "id": "mx-chef-003",
-      "image_url": "https://example.com/mx-chef-003.jpg",
+      "image_url": "https://flowbite.com/docs/images/blog/image-1.jpg",
       "name": "Ana Rodriguez",
       "years_of_experience": 8,
       "num_recipes": 50,
@@ -29,7 +29,7 @@
     },
     {
       "id": "mx-chef-004",
-      "image_url": "https://example.com/mx-chef-004.jpg",
+      "image_url": "https://flowbite.com/docs/images/blog/image-1.jpg",
       "name": "Josefina Sanchez",
       "years_of_experience": 12,
       "num_recipes": 70,
@@ -38,7 +38,7 @@
     },
     {
       "id": "mx-chef-005",
-      "image_url": "https://example.com/mx-chef-005.jpg",
+      "image_url": "https://flowbite.com/docs/images/blog/image-1.jpg",
       "name": "Javier Hernandez",
       "years_of_experience": 6,
       "num_recipes": 45,
@@ -47,7 +47,7 @@
     },
     {
       "id": "mx-chef-006",
-      "image_url": "https://example.com/mx-chef-006.jpg",
+      "image_url": "https://flowbite.com/docs/images/blog/image-1.jpg",
       "name": "Marisol Ortiz",
       "years_of_experience": 18,
       "num_recipes": 90,
@@ -56,7 +56,7 @@
     },
     {
       "id": "mx-chef-007",
-      "image_url": "https://example.com/mx-chef-007.jpg",
+      "image_url": "https://flowbite.com/docs/images/blog/image-1.jpg",
       "name": "Hector Garcia",
       "years_of_experience": 14,
       "num_recipes": 80,
@@ -66,7 +66,7 @@
     },
     {
       "id": "mx-chef-008",
-      "image_url": "https://example.com/mx-chef-008.jpg",
+      "image_url": "https://flowbite.com/docs/images/blog/image-1.jpg",
       "name": "Isabel Ramirez",
       "years_of_experience": 9,
       "num_recipes": 55,
@@ -76,7 +76,7 @@
     },
     {
       "id": "mx-chef-009",
-      "image_url": "https://example.com/mx-chef-009.jpg",
+      "image_url": "https://flowbite.com/docs/images/blog/image-1.jpg",
       "name": "Fernanda Gonzalez",
       "years_of_experience": 7,
       "num_recipes": 40,
@@ -85,7 +85,7 @@
     },
     {
       "id": "mx-chef-010",
-      "image_url": "https://example.com/mx-chef-010.jpg",
+      "image_url": "https://flowbite.com/docs/images/blog/image-1.jpg",
       "name": "Juan Carlos Hernandez",
       "years_of_experience": 11,
       "num_recipes": 60,
