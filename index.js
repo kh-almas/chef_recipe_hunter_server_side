@@ -23,6 +23,11 @@ app.get('/chef/item/:id', (request, response) => {
     const finalData = items.all_recipes.find(n => id === n.chef_id);
     response.send(finalData);
 });
+app.get('/chef/:id', (request, response) => {
+    const id = request.params.id;
+    const finalData = chef.chefs.find(n => id === n.id);
+    response.send(finalData);
+});
 
 app.listen(port, () => {
     console.log(`the_plate_escape app listening on port ${port}`)
