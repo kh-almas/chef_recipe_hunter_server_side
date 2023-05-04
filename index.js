@@ -25,6 +25,9 @@ app.get('/artical', (request, response) => {
 app.get('/chef', (request, response) => {
     response.send(chef);
 });
+app.get('/recipes', (request, response) => {
+    response.send(items);
+});
 app.get('/chef/item/:id', (request, response) => {
     const id = request.params.id;
     const finalData = items.all_recipes.filter(n => id === n.chef_id);
